@@ -49,7 +49,8 @@ variable "params" {
  #   { name = "roboshop.dev.dispatch.amqp_pass", value = "roboshop123", type = "SecureString" },
  #   { name = "roboshop.dev.dispatch.rabbitmq_host", value = "rabbitmq-dev.devopsprojects.store", type = "String" },
 
-
+]
+}
     
     
 
