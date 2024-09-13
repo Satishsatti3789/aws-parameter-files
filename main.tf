@@ -56,7 +56,6 @@ variable "params" {
 
 
 
-/*
 
     ###
     { name = "roboshop.prod.frontend.catalogue_url", value = "http://catalogue-prod.devopsprojects.store/", type = "String" },
@@ -105,7 +104,8 @@ variable "params" {
     { name = "roboshop.prod.user.app_version", value = "1.0.1", type = "String" },
     { name = "roboshop.prod.catalogue.app_version", value = "1.0.0", type = "String" },
     { name = "roboshop.prod.frontend.app_version", value = "1.0.1", type = "String" },
+*/
   ]
 }
 
-*/
+
